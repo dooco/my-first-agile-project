@@ -10,7 +10,8 @@ assignees: ''
 In order to **receive benefit** as a **role**, I can **goal/desire**
 
   # Acceptance Criteria
-  - The option should be provided as a checkbox
-  - The checkbox should be 'checked' by default
-  - The option should appear next to the submit button
-  - After submitting the default submit confirmation should be adjusted to include the user name
+  
+  ## Acceptance criteria 1: 
+  ## Acceptance criteria 2:
+  ## Acceptance criteria 3:
+ 
